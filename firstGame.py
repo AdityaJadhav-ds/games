@@ -14,9 +14,9 @@ if chose in dic :
         print("It's Drawww !!!! ")
 
     elif (you == 1 and cam == -1 ) or (you == -1 and cam == 0) :
-        print("Computer won the match") 
+        print("You Lose the match!") 
 
     elif (you == -1 and cam == 1) or ( you == 0 and cam == -1) : 
-        print("You Won the Match!!!!!!!!!")
+        print("You Won the Match!")
 else : 
     print("Chose Between the 's' 'w' 'g' ")
