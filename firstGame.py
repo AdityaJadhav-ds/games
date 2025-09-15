@@ -11,7 +11,7 @@ if chose in dic :
     print(f"Computer chose: {dic2[cam]}")
 
     if you == cam :
-        print("It's Drawww !!!! ")
+        print("It's Drawww !!! ")
 
     elif (you == 1 and cam == -1 ) or (you == -1 and cam == 0) :
         print("You Lose the match!") 
